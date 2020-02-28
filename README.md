@@ -1,1 +1,1 @@
-# CorePhpAdminPenal
+# CorePhpAdminPanel
